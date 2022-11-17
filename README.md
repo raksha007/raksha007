@@ -15,9 +15,10 @@ About me
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 
 ### Follow Me 
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
-![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)
-![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)
-![DISCORD](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=DISCORD)
-![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007886)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySQL)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shmidtiii)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/rakshasa007)
+[![DISCORD](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=DISCORD)]()
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://ua.linkedin.com/in/stepan-sheihas-01a417152)
+<a href= "mailto:stepansheihas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/> </a>
+</div>
