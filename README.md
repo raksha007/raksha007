@@ -17,7 +17,7 @@ About me
 ### Follow Me 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/shmidtiii)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://mobile.twitter.com/rakshasa007)
-[![DISCORD](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=DISCORD)]()
+[![DISCORD](https://img.shields.io/badge/-DISCORD-090909?style=for-the-badge&logo=DISCORD)](https://discordapp.com/users/543760452564418561/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://ua.linkedin.com/in/stepan-sheihas-01a417152)
 <a href= "mailto:stepansheihas@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/> </a>
